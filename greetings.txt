@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is a message from my cloned repository! 
+=======
+Hello, this is a message from my cloned repository!
+ 
+>>>>>>> 1f36c42d2762f12ce1747902499d1c6223b919ba
